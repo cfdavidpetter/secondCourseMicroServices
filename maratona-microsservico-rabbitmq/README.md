@@ -1,6 +1,6 @@
 ## Descrição
 
-RabbitMQ usado entre os microserviços da Maratona FullCycle.
+RabbitMQ usado entre os microserviços.
 
 ## Rodar a aplicação
 
